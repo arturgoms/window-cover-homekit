@@ -3,6 +3,7 @@ Author: Artur Gomes
 ## Description
 Control a Window cover motor from HomeKit by Apple.
 
+[Demo](https://www.youtube.com/watch?v=iIMCRNgpiv8&t)
 ## How to install:
 
 ### Brew:
