@@ -1,4 +1,5 @@
 # Window Cover HomeKit Apple
+Author: Artur Gomes
 ## Description
 Control a Window cover motor from HomeKit by Apple.
 
@@ -20,6 +21,7 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 ### NodeJs: 
 https://nodejs.org/en/download/
+
 NPM: 
 `sudo npm install -g homebridge / sudo npm install -g homebridge-mqtt`
 
